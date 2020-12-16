@@ -1,1 +1,2 @@
-# hit-mango-hit
+# MatterJSBoilerPlate
+MatterJSBoilerPlate
